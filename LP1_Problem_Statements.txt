@@ -1,0 +1,44 @@
+1.	Design suitable Data structures and implement Pass-I of a two-pass assembler for pseudo-machine.
+
+
+2.	Design suitable Data structures and implement Pass-II of a two-pass assembler for pseudo-machine.
+
+
+3.	Design suitable data structures and implement Pass-I of a two-pass macro processor.
+
+4.	Design suitable data structures and implement Pass-II of a two-pass macro processor.
+
+
+5.	Write a program to simulate CPU Scheduling Algorithms: FCFS, SJF (Preemptive),
+ 
+6.	Write a program to simulate CPU Scheduling Algorithms: Priority (Non-Preemptive) and Round Robin (Preemptive).
+
+
+7.	Write a program to simulate CPU Scheduling Algorithms: SJF (Preemptive), Priority (Non-Preemptive).
+
+
+8.	Write a program to simulate CPU Scheduling Algorithms: FCFS and Round Robin (Preemptive).
+
+
+9.	Write a program to simulate Memory placement strategies – best fit, first fit.
+
+10.	Write a program to simulate Memory placement strategies –next fit and worstfit.
+
+11.	Write a program to simulate Memory placement strategies – best fit, next fit.
+
+12.	Write a program to simulate Memory placement strategies –first fit and worstfit.
+
+13.	Write a program to simulate Optimal Page replacement algorithm.
+
+14.	Write a program to simulate LRU Page replacement algorithm.
+
+15.	Create Project Plan using Gantt chart. 
+
+16.	Execute and Monitor Project Plan 
+▪ Update % Complete with current task status. 
+▪ Review the status of each task. 
+▪ Compare Planned vs Actual Status 
+▪ Review the status of Critical Path 
+▪ Review resources assignation status
+
+
